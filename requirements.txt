@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+plot_likert
+scikit_learn
+scipy
+tqdm
